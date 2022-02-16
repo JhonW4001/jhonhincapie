@@ -26,22 +26,6 @@ h1{
    -webkit-background-clip: text;
 }
 
-.cuadro{
-    width: 500px;
-    height: 500px;
-    display:flex;
-    margin: 0 auto;
-}
-
-.cuadrogrande{
-    fill: #000;
-    stroke: none;
-}
-
-.cuadrop{
-    fill: none;
-    stroke: none;
-}
 
 span{
     font-size: 80px;
